@@ -38,7 +38,7 @@ Todos os membros podem contribuir, partilhar materiais e ajudar a melhorar este 
 | Rubén Pereira       | 8230162     | [@HurkGamerHD](https://github.com/HurkGamerHD)     |
 | Pedro Antunes       | 8230068     | [@hallllow29](https://github.com/hallllow29)       |
 | Ruben Nunes         | 8230069     | [@BenXUser](https://github.com/BenXUser)           |
-| João Ribeiro        | 830157      | [@jotaa14](https://github.com/jotaa14)             |
+| João Ribeiro        | 8230157      | [@jotaa14](https://github.com/jotaa14)             |
 | Diogo Costa         | 8240696     | [@FlowDosNit3s](https://github.com/FlowDosNit3s)   |
 
 ---
